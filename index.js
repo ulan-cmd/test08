@@ -1,3 +1,3 @@
 function hello(){
-	alert('Hello, world');
+	alert('Hello, world and Aidar');
 }
